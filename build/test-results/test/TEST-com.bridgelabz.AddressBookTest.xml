@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.AddressBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-31T18:25:08" hostname="LAPTOP-FPFKM2LM" time="0.062">
+  <properties/>
+  <testcase name="whenPersonContactDetailsAddedToFile_ShouldReturn_True()" classname="com.bridgelabz.AddressBookTest" time="0.062"/>
+  <system-out><![CDATA[
+Contacts added Successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
